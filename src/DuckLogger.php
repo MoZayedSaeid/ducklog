@@ -1,6 +1,6 @@
 <?php
 
-namespace Mosaeid\Ducklog;
+namespace MozayedSaeid\Ducklog;
 
 class DuckLogger
 {

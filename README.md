@@ -7,7 +7,7 @@ A simple, zero-config PHP logger that behaves like `console.log()` but writes to
 You can install the package via composer:
 
 ```bash
-composer require mosaeid/ducklog
+composer require mozayedsaeid/ducklog
 ```
 
 ## Usage

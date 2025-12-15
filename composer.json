@@ -1,11 +1,11 @@
 {
-    "name": "mosaeid/ducklog",
+    "name": "mozayedsaeid/ducklog",
     "description": "Logging PHP stuff",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Mosaeid\\Ducklog\\": "src/"
+            "MozayedSaeid\\Ducklog\\": "src/"
         },
         "files": [
             "src/helpers.php"

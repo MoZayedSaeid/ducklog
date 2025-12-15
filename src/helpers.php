@@ -1,6 +1,6 @@
 <?php
 
-use Mosaeid\Ducklog\DuckLogger;
+use MozayedSaeid\Ducklog\DuckLogger;
 
 if (!function_exists('duck')) {
     function duck($variable)
