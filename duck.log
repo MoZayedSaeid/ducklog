@@ -1,0 +1,20 @@
+[2025-12-15 12:48:18] [string] Hello World
+[2025-12-15 12:48:18] [integer] 12345
+[2025-12-15 12:48:18] [array] Array
+(
+    [key] => value
+    [nested] => Array
+        (
+            [0] => 1
+            [1] => 2
+            [2] => 3
+        )
+
+)
+
+[2025-12-15 12:48:18] [object] stdClass Object
+(
+    [prop] => property value
+)
+
+[2025-12-15 12:48:18] [NULL] null

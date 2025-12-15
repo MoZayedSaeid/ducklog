@@ -1,0 +1,16 @@
+{
+    "name": "mosaeid/ducklog",
+    "description": "Logging PHP stuff",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mosaeid\\Ducklog\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
